@@ -1,0 +1,157 @@
+﻿Diagnose log at 2022-06-03T02:07:25Z
+
+Executable: /usr/local/share/gcm-core/git-credential-manager-core
+Version: 2.0.696+4365b917da
+
+------------
+Diagnostic: Environment
+Skipped: False
+Success: True
+Exception: None
+Log:
+OSType: Linux
+OSVersion: Linux ironport 5.10.16.3-microsoft-standard-WSL2 #1 SMP Fri Apr 2 22:23:49 UTC 2021 x86_64 x86_64 x86_64 GNU/Linux
+Reading environment variables... OK
+ Variables:
+LANG=en_US.UTF-8
+WSLENV=
+HOME=/home/wahyu
+LOGNAME=wahyu
+WSL_INTEROP=/run/WSL/160_interop
+SHLVL=1
+SHELL=/bin/bash
+LESSCLOSE=/usr/bin/lesspipe %s %s
+HOSTTYPE=x86_64
+OLDPWD=/mnt/e/googledrive/IMSTUFF/GOOGLE PLAY
+TERM=xterm-256color
+NVM_BIN=/home/wahyu/.nvm/versions/node/v18.2.0/bin
+LESSOPEN=| /usr/bin/lesspipe %s
+NVM_CD_FLAGS=
+PATH=/usr/lib/git-core:/home/wahyu/.nvm/versions/node/v18.2.0/bin:/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/games:/usr/local/games:/usr/lib/wsl/lib:/mnt/e/Program Files/scoop/apps/cmder-full/current/vendor/conemu-maximus5/ConEmu/Scripts:/mnt/e/Program Files/scoop/apps/cmder-full/current/vendor/conemu-maximus5:/mnt/e/Program Files/scoop/apps/cmder-full/current/vendor/conemu-maximus5/ConEmu:/mnt/c/Windows/system32:/mnt/c/Windows:/mnt/c/Windows/System32/Wbem:/mnt/c/Windows/System32/WindowsPowerShell/v1.0/:/mnt/c/Windows/System32/OpenSSH/:/mnt/e/SDK/android/tools:/mnt/e/SDK/android/platform-tools:/mnt/e/SDK/flutter/bin:/mnt/c/Program Files/NVIDIA Corporation/NVIDIA NvDLISR:/mnt/c/Program Files (x86)/NVIDIA Corporation/PhysX/Common:/mnt/c/Program Files/Docker/Docker/resources/bin:/mnt/c/ProgramData/DockerDesktop/version-bin:/mnt/e/Program Files/scoop/apps/composer/current/home/vendor/bin:/mnt/e/Program Files/scoop/apps/semeru8-jdk/current/bin:/mnt/e/Program Files/scoop/apps/ojdkbuild8/current/bin:/mnt/e/Program Files/scoop/apps/miniconda3/current/scripts:/mnt/e/Program Files/scoop/apps/miniconda3/current/Library/bin:/mnt/e/Program Files/scoop/apps/vscode/current/bin:/mnt/e/Program Files/scoop/apps/python/current/Scripts:/mnt/e/Program Files/scoop/apps/python/current:/mnt/e/Program Files/scoop/apps/nodejs-lts/current/bin:/mnt/e/Program Files/scoop/apps/nodejs-lts/current:/mnt/e/Program Files/scoop/apps/openjdk11/current/bin:/mnt/e/Program Files/scoop/shims:/mnt/c/Users/wahyu/AppData/Local/Microsoft/WindowsApps:/snap/bin
+NVM_DIR=/home/wahyu/.nvm
+XDG_DATA_DIRS=/usr/local/share:/usr/share:/var/lib/snapd/desktop
+NVM_INC=/home/wahyu/.nvm/versions/node/v18.2.0/include/node
+LS_COLORS=rs=0:di=01;34:ln=01;36:mh=00:pi=40;33:so=01;35:do=01;35:bd=40;33;01:cd=40;33;01:or=40;31;01:mi=00:su=37;41:sg=30;43:ca=30;41:tw=30;42:ow=34;42:st=37;44:ex=01;32:*.tar=01;31:*.tgz=01;31:*.arc=01;31:*.arj=01;31:*.taz=01;31:*.lha=01;31:*.lz4=01;31:*.lzh=01;31:*.lzma=01;31:*.tlz=01;31:*.txz=01;31:*.tzo=01;31:*.t7z=01;31:*.zip=01;31:*.z=01;31:*.dz=01;31:*.gz=01;31:*.lrz=01;31:*.lz=01;31:*.lzo=01;31:*.xz=01;31:*.zst=01;31:*.tzst=01;31:*.bz2=01;31:*.bz=01;31:*.tbz=01;31:*.tbz2=01;31:*.tz=01;31:*.deb=01;31:*.rpm=01;31:*.jar=01;31:*.war=01;31:*.ear=01;31:*.sar=01;31:*.rar=01;31:*.alz=01;31:*.ace=01;31:*.zoo=01;31:*.cpio=01;31:*.7z=01;31:*.rz=01;31:*.cab=01;31:*.wim=01;31:*.swm=01;31:*.dwm=01;31:*.esd=01;31:*.jpg=01;35:*.jpeg=01;35:*.mjpg=01;35:*.mjpeg=01;35:*.gif=01;35:*.bmp=01;35:*.pbm=01;35:*.pgm=01;35:*.ppm=01;35:*.tga=01;35:*.xbm=01;35:*.xpm=01;35:*.tif=01;35:*.tiff=01;35:*.png=01;35:*.svg=01;35:*.svgz=01;35:*.mng=01;35:*.pcx=01;35:*.mov=01;35:*.mpg=01;35:*.mpeg=01;35:*.m2v=01;35:*.mkv=01;35:*.webm=01;35:*.webp=01;35:*.ogm=01;35:*.mp4=01;35:*.m4v=01;35:*.mp4v=01;35:*.vob=01;35:*.qt=01;35:*.nuv=01;35:*.wmv=01;35:*.asf=01;35:*.rm=01;35:*.rmvb=01;35:*.flc=01;35:*.avi=01;35:*.fli=01;35:*.flv=01;35:*.gl=01;35:*.dl=01;35:*.xcf=01;35:*.xwd=01;35:*.yuv=01;35:*.cgm=01;35:*.emf=01;35:*.ogv=01;35:*.ogx=01;35:*.aac=00;36:*.au=00;36:*.flac=00;36:*.m4a=00;36:*.mid=00;36:*.midi=00;36:*.mka=00;36:*.mp3=00;36:*.mpc=00;36:*.ogg=00;36:*.ra=00;36:*.wav=00;36:*.oga=00;36:*.opus=00;36:*.spx=00;36:*.xspf=00;36:
+WSL_DISTRO_NAME=Ubuntu-22.04
+NAME=ironport
+USER=wahyu
+_=/usr/bin/git
+MOTD_SHOWN=update-motd
+PWD=/mnt/e/googledrive/IMSTUFF/GOOGLE PLAY/site
+GIT_EXEC_PATH=/usr/lib/git-core
+
+
+------------
+Diagnostic: File system
+Skipped: False
+Success: True
+Exception: None
+Log:
+Temporary directory is '/tmp/'...
+Checking basic file I/O...
+Writing to temporary file '/tmp/ab9f4436a981e6125da6b394'... OK
+Reading from temporary file '/tmp/ab9f4436a981e6125da6b394'... OK
+Deleting temporary file '/tmp/ab9f4436a981e6125da6b394'... OK
+Testing IFileSystem instance...
+UserHomePath: /home/wahyu
+UserDataDirectoryPath: /home/wahyu/.gcm
+GetCurrentDirectory(): /mnt/e/googledrive/IMSTUFF/GOOGLE PLAY/site
+
+------------
+Diagnostic: Networking
+Skipped: False
+Success: True
+Exception: None
+Log:
+Checking basic networking and HTTP stack...
+Creating HTTP client... OK
+IsNetworkAvailable: True
+Sending HEAD request to http://example.com... OK
+Sending HEAD request to https://example.com... OK
+Acquiring free TCP port... OK
+Testing local HTTP loopback connections...
+Creating new HTTP listener for http://localhost:45995/... OK
+Waiting for loopback connection... OK
+Writing response... OK
+Waiting for response data... OK
+Loopback connection data OK
+Testing with IHttpClientFactory created HTTP client...
+Creating HTTP client... OK
+IsNetworkAvailable: True
+Sending HEAD request to http://example.com... OK
+Sending HEAD request to https://example.com... OK
+Acquiring free TCP port... OK
+Testing local HTTP loopback connections...
+Creating new HTTP listener for http://localhost:41599/... OK
+Waiting for loopback connection... OK
+Writing response... OK
+Waiting for response data... OK
+Loopback connection data OK
+
+------------
+Diagnostic: Git
+Skipped: False
+Success: True
+Exception: None
+Log:
+Getting Git version... OK
+Git version is '2.34.1'
+Locating current repository... OK
+Git repository at '/mnt/e/googledrive/IMSTUFF/GOOGLE PLAY/site/.git'
+Listing all Git configuration... OK
+Git configuration:
+file:/home/wahyu/.gitconfig	credential.helper=
+file:/home/wahyu/.gitconfig	credential.helper=/usr/local/share/gcm-core/git-credential-manager-core
+file:/home/wahyu/.gitconfig	credential.credentialstore=plaintext
+file:/home/wahyu/.gitconfig	credential.https://dev.azure.com.usehttppath=true
+file:.git/config	core.repositoryformatversion=0
+file:.git/config	core.filemode=false
+file:.git/config	core.bare=false
+file:.git/config	core.logallrefupdates=true
+file:.git/config	core.ignorecase=true
+file:.git/config	remote.origin.url=https://github.com/PseudoPort/goodapp.git
+file:.git/config	remote.origin.fetch=+refs/heads/*:refs/remotes/origin/*
+file:.git/config	branch.main.remote=origin
+file:.git/config	branch.main.merge=refs/heads/main
+
+
+------------
+Diagnostic: Credential storage
+Skipped: False
+Success: True
+Exception: None
+Log:
+ICredentialStore instance is of type: CredentialStore
+Writing test credential... OK
+Reading test credential... OK
+Deleting test credential... OK
+
+------------
+Diagnostic: Microsoft authentication (AAD/MSA)
+Skipped: False
+Success: True
+Exception: None
+Log:
+Broker not supported.
+Flow type is: Auto
+Gathering MSAL token cache data... OK
+CacheDirectory: /home/wahyu/.local/.IdentityService
+CacheFileName: msal.cache
+CacheFilePath: /home/wahyu/.local/.IdentityService/msal.cache
+KeyringCollection: 
+KeyringSchemaName: 
+KeyringSecretLabel: 
+KeyringAttribute1: (,)
+KeyringAttribute2: (,)
+Creating cache helper... OK
+Verifying MSAL token cache persistence... OK
+
+------------
+Diagnostic: GitHub API
+Skipped: False
+Success: True
+Exception: None
+Log:
+Using 'https://github.com/' as API target.
+Querying '/meta' endpoint... OK
+
