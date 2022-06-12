@@ -1,0 +1,36 @@
+ { "Ads": [
+    {
+      "select_main_ads": "ADMOB",
+      "select_backup_ads":"APPLOVIN-M",
+      "main_ads_banner": "ca-app-pub-3940256099942544/6300978111",
+      "main_ads_intertitial":"ca-app-pub-3940256099942544/1033173712",
+      "native_for_admob_applovin":"ca-app-pub-3940256099942544/2247696110",
+      "backup_ads_banner":"db4d5e8718b97d78",
+      "backup_ads_intertitial":"518cd97722c60b52",
+      "interval_intertitial": 5,
+      "initialize_sdk":"107355779",
+      "initialize_sdk_backup_ads":"",
+      "high_paying_keyword_1": "",
+      "high_paying_keyword_2": "",
+      "high_paying_keyword_3": "",
+      "high_paying_keyword_4": "",
+      "high_paying_keyword_5": "",
+      "status_app": "0",
+      "link_redirect": "https://"
+    }
+  ],
+   "More": [
+     {
+       "id": 1,
+       "title": "Twibbonizer - Twibbon Maker",
+       "image": "https://lh3.googleusercontent.com/_HkeIsZqdFJCId6lCW92d6W0B2ck19q2NjsUShaqqFHa1p8Cc8mC7JYdfmPU5Y0uIDE",
+       "link": "https://play.google.com/store/apps/details?id=com.aplikasibangsa.twibboncampaignframe"
+     },
+     {
+       "id": 2,
+       "title": "Skins FNF Mod for Minecraft PE",
+       "image": "https://lh3.googleusercontent.com/lwlU5x9UILIP2KEXwPC_2BW9N3zzh9o3qgRB6foRQIGIzNYdSFht_b7Joi8-N48v-fw",
+       "link": "https://play.google.com/store/apps/details?id=com.skinmaster.skinformcpefnfmod"
+     }
+   ]
+}
