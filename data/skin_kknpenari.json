@@ -1,0 +1,75 @@
+{
+  "Ads": [
+    {
+      "select_main_ads": "ADMOB",
+      "select_backup_ads":"APPLOVIN-D",
+      "main_ads_banner": "ca-app-pub-3940256099942544/6300978111",
+      "main_ads_intertitial":"ca-app-pub-3940256099942544/1033173712",
+      "backup_ads_banner":"db4d5e8718b97d78",
+      "backup_ads_intertitial":"518cd97722c60b52",
+      "interval_intertitial": 5,
+      "initialize_sdk":"4144785",
+      "initialize_sdk_backup_ads":"",
+      "high_paying_keyword_1": "",
+      "high_paying_keyword_2": "",
+      "high_paying_keyword_3": "",
+      "high_paying_keyword_4": "",
+      "high_paying_keyword_5": "",
+      "status_app": "0",
+      "link_redirect": "https://"
+    }
+  ],
+  "More":
+  [
+    {
+      "title":"Skins FNF Mod for Minecraft PE",
+      "image":"https://lh3.googleusercontent.com/lwlU5x9UILIP2KEXwPC_2BW9N3zzh9o3qgRB6foRQIGIzNYdSFht_b7Joi8-N48v-fw",
+      "link":"https://play.google.com/store/apps/details?id=com.skinmaster.skinformcpefnfmod"
+    }
+  ],
+  "Skin": 
+  [
+{"name_skin": "kkn", "install": "https://lh3.googleusercontent.com/2juc55JNfLA1VNwgx6dnwzLzAMv18G1GurETl8e4NpaT1IsC2Fg5Vs4-8vDVs0FE5v1vXOFsqFHr2hTSleGnLIvyUjI1D66T"},
+{"name_skin": "VINA PENARI DESA KKN", "install": "https://lh3.googleusercontent.com/N45VnqLziXmemg_Zt18YxRDTYKGkmmbhoQc1-jC1Ztsp6JP6qWZGYH7iWFUCF5hRKvNQwp4_Mjg0La5yrw3MFy0M7F9Qu4qPzP0"},
+{"name_skin": "kkn", "install": "https://lh3.googleusercontent.com/ExkigN6fosw-uRdHBVvmEXCiSvOruYT9ztqebcshI4t-c3Ex25c-0UkQPIyGHifHnVHVAoifs_UXHsuo5LaIr8qshkuWxKaL15w"},
+{"name_skin": "kkn", "install": "https://lh3.googleusercontent.com/ExkigN6fosw-uRdHBVvmEXCiSvOruYT9ztqebcshI4t-c3Ex25c-0UkQPIyGHifHnVHVAoifs_UXHsuo5LaIr8qshkuWxKaL15w"},
+{"name_skin": "KKN", "install": "https://lh3.googleusercontent.com/BwST3xPy8lvOagIjBIIN03FUtNyqmZAWBn0iqwm6jGWiwQc4FgL8sVK3xJMfgJgCKJ7j9ORiz2tNllU-n25cYKlLwBBQiYNwCQ"},
+{"name_skin": "kkn", "install": "https://lh3.googleusercontent.com/ELOlZt0Ev9YgHVd3cAcg4cPasaPjgvrq7m7i0_bCFTQI-GdL61tt_JQVa9HOIIrfTh0oE2_L5o3N4VEoAB3LU5OWi5IoEeaqQCI"},
+{"name_skin": "kkn", "install": "https://lh3.googleusercontent.com/KadZxU0NAEseONtlgzDi08KF3Zs7n_QkxIgzRSZswT3Afr3c_-2i4xBVM6aMZK-24YljYrqGzk6olOJdb_M-KqeceRj3Dvipiw"},
+{"name_skin": "KKN", "install": "https://lh3.googleusercontent.com/qOmaVSiABEVAO_sMQ1-0b_q0ejpUiolBcjQF3xrYx_i2bHWJCQccdohRSO9a6vRRUAKl90mdUC_-JkD8uHpTKOplDdiqc7JlfA"},
+{"name_skin": "kkn", "install": "https://lh3.googleusercontent.com/xUNVj5Jgo-m8A-79gcdkqIMmm9Sf4yFPtptlK83soGTYr85P1YxHnsdlAjkvunXB-KWJ3QimTfVBzmXLmHOHjExr1IwlGrgT9GqQ"},
+{"name_skin": "kkn", "install": "https://lh3.googleusercontent.com/SsbS-a4AJX_A-xTsjGgrlX-kwwNTqGB4vWMHD2c0Pr1zm878XEugtIDB7IRh1uM5fnABexvG5-XHs6BTH6wcna5Qm31rsq8Lv7g"},
+{"name_skin": "kkn", "install": "https://lh3.googleusercontent.com/nTwEpHv5RLWlAjYwHv0s9WU0wiN73dLu-FHFxKPCnFdsXVNPEPKMtPCwaUI3fM6Md6SC8MonvL603z9506-bCzfpCf0XX0mxG98"},
+{"name_skin": "kkn", "install": "https://lh3.googleusercontent.com/9mJY-mpohk7thEhjSiWnbr_0GiJxnbW2BjbNcW5JgX_PYk2YOIY8hRZ5JtZEGTOxu1RTL2Ps3T6xzU32rZkW60Zsl1MHG2laJn0"},
+{"name_skin": "kkn", "install": "https://lh3.googleusercontent.com/YggoqRYbUqNS0BvF4ZjVAQn_wFPwnaSslwsNLQslFrW4-BFye4zvNIGmPy7rewti2xKcmCPFUEmioYsnhKo"},
+{"name_skin": "kkn", "install": "https://lh3.googleusercontent.com/R7KsoME0ZkIJW53smBaUxuw91dLfwrUlEYsf2Vp-WFDVYFL8SspKLMfPwC3oUeG5Rq5H8m-5TmzBm7sJkAkdWg"},
+{"name_skin": "kkn", "install": "https://lh3.googleusercontent.com/GB4QBgiUe7Q9lZqPit_8f-Ec_4-mEydo0M_uOv_mEQABoSMglgh6qwRriiIU6GiEOXmJxhpTgC-EmEIMfH8xFA"},
+{"name_skin": "kkn", "install": "https://lh3.googleusercontent.com/3SFm0LPapf1GOsniosBX9tQ2NF5dEWfVjhTsezwXRVyYyd71F1Ebt_2PvSuFaPduCMa40KmMyxGI2FWySgx1"},
+{"name_skin": "Shadow KKN", "install": "https://lh3.googleusercontent.com/jZQWeFOEK2hwFVvSFiDEfrsfM0lfN0YxgV4VAXeFPEgJNxRJzBWm_OuutXinsHi-9tC0HHqQGZuzIPcfRmHjag"},
+{"name_skin": "kkn", "install": "https://lh3.googleusercontent.com/X1mik1vYtZQnKCC8f6KmvG2r7dPCR9FK599f1eDl8lxsJSDv30KcEE3DIHUCBYstk-hK7yqlB6fwryAYzSpB9Sc"},
+{"name_skin": "kkn", "install": "https://lh3.googleusercontent.com/epz2_DwURjQzH29dWvgsBnG3m0i8zfgJMQEMw2UxvwrwY_xDKq3utwdw6jKFk2a8CBPvHzHuNUYYm38LFn-_"},
+{"name_skin": "kkn", "install": "https://lh3.googleusercontent.com/3K6GLDXurTimlQBxe8OWyjE7naM4Ci15aI9XR5A9kZvtqkWVCXraP2sZ5K20YbuwbbCKE5t72FJZlS1GfQXm"},
+{"name_skin": "kkn", "install": "https://lh3.googleusercontent.com/6LF-gsb3dzXKrMdarLf319QXrutv1CvCGRgo7FHD2OGEPfwVA0p-CqYh_tusxsr30kAHKynmXqsykb7WTIjvEw"},
+{"name_skin": "kkn", "install": "https://lh3.googleusercontent.com/VKw51BdJmSHNmlldGWseUzVu0_OvJuREv_2ao5LtFwH17Pgh1vb6mW1bGG6uhUcMs_P12tdGka8GSEgz2aPzZw"},
+{"name_skin": "kkn", "install": "https://lh3.googleusercontent.com/mvNvk_xZwUo-CPwSWF2_IRfrhEdgsLesszqPlaS-Rw2IKXuavGx24G4qGw2zBhVPUd0GiWIGNsJ1bXemhhcCKw"},
+{"name_skin": "kkn", "install": "https://lh3.googleusercontent.com/ELHhxDvRAXqLwRN-j0UcwmCO3gSvXJKK0XIvZoCIEi6hKv0pnR57WOGcvOTGWOqIC2Kj2v1A_aOUO5iqJ0eKFQ"},
+{"name_skin": "kkn", "install": "https://lh3.googleusercontent.com/Kfpx8pP0s_uuXwrVTNhYYEiEkfhSUxEFg7yYzgyltXQ-UcXaVtsJ1atWpMU7YfIb8kIuh23Nn6L6bg9I5M4_DOo"},
+{"name_skin": "kkn", "install": "https://lh3.googleusercontent.com/ItPWxYEphjAHXjFwr-d7Z-tTdmBmCwTwCsvcigJhSfz0GXmxZGV4U6UX03TqHCSRh0DoOtpW9AjB5Zm7WUzaLw"},
+{"name_skin": "kkn", "install": "https://lh3.googleusercontent.com/AOqVAHBvpv-MMLRHr_PXMeHhLiTNXjzZswORs8FPGn0c2-npyE-jZKWssxO3k6PTigUzFg1NFsX6KaqQrQLM"},
+{"name_skin": "KKN", "install": "https://lh3.googleusercontent.com/0Yv0ULgLGYhmeViIEAliK3t22xjs62RLCOrHOssJmmPTECIEv3sAeHb9V6LGMhEGUTmkns03IyYKdQbZq_z8MQ"},
+{"name_skin": "KKN", "install": "https://lh3.googleusercontent.com/5afJ88MR86EvwyLjcV2TSUWSp1nvQuwCEdUsxcXLG-AKpj7x8dPJbAj1kCLMD5B5cG2sBhcjq6B4qXUUHg82vw"},
+{"name_skin": "kkn", "install": "https://lh3.googleusercontent.com/YF8l_yyOamti-ZqzuPQ9B33cEq0t-fu7UyLQpTz7L_xAnZyZR0zs4UkBlnE_p8AnRBuAapMBObgt9kCfHjW5Hes"},
+{"name_skin": "kkn", "install": "https://lh3.googleusercontent.com/F95JLqsldK9qrREnbQ6zZvGHTESvc0Hx2_ohumIU2nOjmqNHpPf4NQ7zrxSKyZetl7SqClF78sNsm5wrY-z9uQ"},
+{"name_skin": "kkn", "install": "https://lh3.googleusercontent.com/vdJy00K7FWvBgsETC39TI7FANrHYJy4nFHhblnNNFZ3XpKWMtvGQuDyot_i3G8uBEzMYEafmuyjUsSLtqmsACg"},
+{"name_skin": "kkn", "install": "https://lh3.googleusercontent.com/6URAmDVrrb62QRjQgy3GJUf11m-5ZuHDTbDPNPZEg4TANyGm2V9k_h8H4YRaJaVzKRlTVRloQ2DpHQO6qQ-u"},
+{"name_skin": "kkn", "install": "https://lh3.googleusercontent.com/L8smmnwL45icQV4rU16g_1d3jc-d59dFMs23VnG_-5E6xFsaFrN4zBSdpsV6rqaBYlhlYXhHfz7u5WxahScN"},
+{"name_skin": "kkn", "install": "https://lh3.googleusercontent.com/ugYG9_Nm2lhL4gYMXzB1rLCa2HhCcyaevrzZB7jvAScItIevHnB5KzU69BBCOGGfYk-AmknuFkTDua98pD1Xww"},
+{"name_skin": "KkN", "install": "https://lh3.ggpht.com/IE1u80nT0eC7EZxZhHsfn8QDhsHau3XmzuHBhClL1_gwlyz5KHMrsJEklCYa5GfCyLmgqzEmkl3Ggx7i_kjLj-s"},
+{"name_skin": "kkn", "install": "https://lh6.ggpht.com/Ah3ZoIbfDRtKapfLy1BIfH-aAZD-Dp3ZIcIbrh7ErUfxEs02VXq76x-_EP8qI800k_eQOjw1o58xJyDUqIRoGQ"},
+{"name_skin": "kkn", "install": "https://lh3.ggpht.com/l1oTRABJCd7bkCDoQAp6zWyhwaM5UHhoUFZDzXpcGTK1L4mzUnO4iMa5I7gQTvkMId80a7BVtUIa6iwrIj2vpbI"},
+{"name_skin": "kkn", "install": "https://lh4.ggpht.com/GsMGAcnEP48_kBjJ1T91O9E2gKQ5a-qDbI6Khk0kKzWgNxtqHzv2e6dRuZuX-C8LKrH-T4Od4yCR8tDs8ey1"},
+{"name_skin": "kkn", "install": "https://lh4.ggpht.com/sFa1gPxmGzSmfDa6P6dw3nBUHOFNizD5wAQ3h1tgXN0ERubG1Th-yclU1WQDyJqcNcrifKaQs6B08vX6y4l4hQ"},
+{"name_skin": "kkn", "install": "https://lh6.ggpht.com/s5GPlGmvqLsN1RwZqD47HkjW03xVUhuX6gDLMfL--JD8KuRWWmxhwdCY1HgvysN7rYGsKcPvfEwxfuoSsILa-A"},
+{"name_skin": "kkn jhvyvnjnn", "install": "https://lh6.ggpht.com/twMO9787XJ-USgT1sEqh1P-81P7nWtpSSMHXHRom0YrSXq5DYsfAh8tPjVdVBiRk63y13HLnqrYk4iZGyqCx"}
+]
+}
